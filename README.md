@@ -1,5 +1,5 @@
 # Project-BackLight-Release
-## V0.4.0
+## V0.4.0 [下载](https://github.com/Nedlitex/Project-BackLight-Release/releases/download/v0.4.0/Project-BackLight-v0.4.0.zip)
 1. 增加了联机模式
 2. 增加了教程模式
 
