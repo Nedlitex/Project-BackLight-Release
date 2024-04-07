@@ -1,7 +1,7 @@
 # Project-BackLight-Release
-## V0.4.0 [下载](https://github.com/Nedlitex/Project-BackLight-Release/releases/download/v0.4.0/Project-BackLight-v0.4.0.zip)
-1. 增加了联机模式
-2. 增加了教程模式
+## V0.5.0
+1. 增加了P2P直连模式
+2. 重做了一些干员
 
 ## 注意
 1. 下载并解压缩以后双击`Project-BackLight.exe`文件运行游戏
@@ -22,3 +22,8 @@
 得分规则：
 - 击倒敌人获得1分。被击倒的干员将在10秒后重新部署。
 - 地图上会刷新战略点。在战略点内累计10秒以后获得3分。如果战略点内有多个干员则计时暂停。
+
+## 之前版本
+### V0.4.0 [下载](https://github.com/Nedlitex/Project-BackLight-Release/releases/download/v0.4.0/Project-BackLight-v0.4.0.zip)
+1. 增加了联机模式
+2. 增加了教程模式
