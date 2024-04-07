@@ -1,5 +1,5 @@
 # Project-BackLight-Release
-## V0.5.0
+## V0.5.0 [下载](https://github.com/Nedlitex/Project-BackLight-Release/releases/download/v0.5.0/Project-BackLight-v0.5.0.zip)
 1. 增加了P2P直连模式
 2. 重做了一些干员
 
