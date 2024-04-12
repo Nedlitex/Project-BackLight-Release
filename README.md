@@ -1,7 +1,7 @@
 # Project-BackLight-Release
-## V0.5.0 [下载](https://github.com/Nedlitex/Project-BackLight-Release/releases/download/v0.5.0/Project-BackLight-v0.5.0.zip)
-1. 增加了P2P直连模式
-2. 重做了一些干员
+## V0.5.1 [下载](https://github.com/Nedlitex/Project-BackLight-Release/releases/download/v0.5.1/Project-BackLight-v0.5.1.zip)
+1. BUGFIX: 修改了p2p直连的bug，现在玩家之间应该可以通过直接连接降低联机ping值
+2. 增加了一些额外的UI引导
 
 ## 注意
 1. 下载并解压缩以后双击`Project-BackLight.exe`文件运行游戏
@@ -27,3 +27,7 @@
 ### V0.4.0 [下载](https://github.com/Nedlitex/Project-BackLight-Release/releases/download/v0.4.0/Project-BackLight-v0.4.0.zip)
 1. 增加了联机模式
 2. 增加了教程模式
+
+### V0.5.0 [下载](https://github.com/Nedlitex/Project-BackLight-Release/releases/download/v0.5.0/Project-BackLight-v0.5.0.zip)
+1. 增加了P2P直连模式
+2. 重做了一些干员
